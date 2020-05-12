@@ -39,7 +39,7 @@ const planets = [
     moons: "2",
     desc:
       'The fourth planet from the Sun and the second smallest planet in the solar system. Mars is often described as the "Red Planet" due to its reddish appearance. It\'s a terrestrial planet with a thin atmosphere composed primarily of carbon dioxide.',
-    url: "img/mars.jpg",
+    url: "./img/mars.jpg",
   },
   {
     id: "5",
